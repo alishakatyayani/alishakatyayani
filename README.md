@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alishakatyayani
 - 👀 I’m interested in ...PYTHON,DSA
-- 🌱 I’m currently learning ...ELECTRONICS AND COMMUNICATION ENGINEER
+- 🌱 I’m currently learning ...ELECTRONICS AND COMMUNICATION ENGINEERING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...katyayanialisha@gmail.com
 
